@@ -1,4 +1,3 @@
-ASSET_PREFIX = "https://eseassets.ch/access-tdr/imbach/js/visualiser/";
 ASSET_PREFIX = "https://raw.githubusercontent.com/eseagency/imbach/main/";
 SCRIPT_PREFIX = "";
 SCENE_PATH = "1359787.json";
