@@ -1,0 +1,28 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "de"
+            },
+            "messages": {
+                "Scheibe FF_TITLE": "Scheibe/Ronde",
+                "Rundstab_TITLE": "Rundstab",
+                
+                "Achsschenkel_7935-C_TITLE": "Achsschenkel",
+                "Flanschwelle_TITLE": "Flanschwelle",
+                "Flowserve Eckgehäuse 1230568_TITLE": "Flowserve Eckgehäuse",
+                "Leitschaufel_TITLE": "Leitschaufel",
+
+                "Achsschenkel_7935-C_DESCR": "Achsschenkel Beschreibung \n - item1 \n - item2",
+                "Flanschwelle_DESCR": "Flanschwelle \n - item1 \n - item2",
+                "Flowserve Eckgehäuse 1230568_DESCR": "Flowserve Eckgehäuse \n - item1 \n - item2",
+                "Leitschaufel_DESCR": "Leitschaufel \n - item1 \n - item2",
+
+                "FORM_CONTACT": "Formberatung starten"
+            }
+        }
+    ]
+}
